@@ -1,0 +1,7 @@
+myusers:
+  - name: jeff
+    group: developer
+  - name: manish
+    group: manager
+  - name:  bob
+    group: developer
